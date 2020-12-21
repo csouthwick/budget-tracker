@@ -26,3 +26,7 @@ Run
 ```
 npm start
 ```
+
+Or view the live app on Heroku by clicking the image below
+
+[![Budget Tracker running as a progressive web app](budget-tracker.png)](https://dry-journey-39799.herokuapp.com/)
